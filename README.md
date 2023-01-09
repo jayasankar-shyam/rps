@@ -1,9 +1,5 @@
 # rock-paper-scissors
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=SouravJohar.visitor-badge)
-
-https://youtu.be/0uSA3xyXlwM 
-
 An AI to play the Rock Paper Scissors game
 
 ## Requirements
@@ -15,7 +11,7 @@ An AI to play the Rock Paper Scissors game
 ## Set up instructions
 1. Clone the repo.
 ```sh
-$ git clone https://github.com/SouravJohar/rock-paper-scissors.git
+$ git clone https://github.com/jayasankar-shyam/rps.git
 $ cd rock-paper-scissors
 ```
 
